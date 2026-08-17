@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "player_name": "Virat Kohli",
+    "player_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDSzpFH02ov7EYhnYj_hMOukq18uY1rUiyqgsOm2BpvQ&s=10",
+    "country_name": "India",
+    "role": "Batsman",
+    "rating": 9.2,
+    "batting_style": "Right-Hand-Bat",
+    "bowling_style": "Right-arm medium",
+    "price": 1500000
+  },
+  {
+    "id": 2,
+    "player_name": "Shakib Al Hasan",
+    "player_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyMUEHljCNCbW_JKfDrKg3x5pe_QZOi0a9L-TvuceJ5w&s=10",
+    "country_name": "Bangladesh",
+    "role": "All-Rounder",
+    "rating": 8.9,
+    "batting_style": "Left-Hand-Bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "price": 1200000
+  },
+  {
+    "id": 3,
+    "player_name": "Steve Smith",
+    "player_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaT8M5Obl2ZQ6QaDy1ckZQxkaOtV4eGZrGO_Uaa_MOqg&s=10",
+    "country_name": "Australia",
+    "role": "Batsman",
+    "rating": 9.0,
+    "batting_style": "Right-Hand-Bat",
+    "bowling_style": "Right-arm leg spin",
+    "price": 1350000
+  },
+  {
+    "id": 4,
+    "player_name": "Ben Stokes",
+    "player_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmrPHEOqCRDMov2fC30ZrKQKH_SSvjeODBDluj7obt2Q&s=10",
+    "country_name": "England",
+    "role": "All-Rounder",
+    "rating": 8.8,
+    "batting_style": "Left-Hand-Bat",
+    "bowling_style": "Right-arm fast-medium",
+    "price": 1400000
+  },
+  {
+    "id": 5,
+    "player_name": "Babar Azam",
+    "player_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNjL5gQHQexKMWK_KcoywrjaIhGvt4-MlqRNXGFUFHtg&s=10",
+    "country_name": "Pakistan",
+    "role": "Batsman",
+    "rating": 8.9,
+    "batting_style": "Right-Hand-Bat",
+    "bowling_style": "Right-arm off spin",
+    "price": 1300000
+  },
+  {
+    "id": 6,
+    "player_name": "Rashid Khan",
+    "player_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwmu_G9Gb0LWO1wPIVTxyJmuuVvQIrG18k_h6dQ6I87A&s=10",
+    "country_name": "Afghanistan",
+    "role": "Bowler",
+    "rating": 9.1,
+    "batting_style": "Right-Hand-Bat",
+    "bowling_style": "Right-arm leg spin",
+    "price": 1250000
+  },
+  {
+    "id": 7,
+    "player_name": "Kane Williamson",
+    "player_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw8-HbbiylX7y9iuU_oQN8ohGkdqQl1BvrD4uNNHPZfQ&s=10",
+    "country_name": "New Zealand",
+    "role": "Batsman",
+    "rating": 8.7,
+    "batting_style": "Right-Hand-Bat",
+    "bowling_style": "Right-arm off break",
+    "price": 1100000
+  },
+  {
+    "id": 8,
+    "player_name": "Quinton de Kock",
+    "player_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOvUIuZ-rdaOQfXQrZQXzSlriQAD0HQbADPAv53TpOPw&s=10",
+    "country_name": "South Africa",
+    "role": "Wicketkeeper-Batsman",
+    "rating": 8.5,
+    "batting_style": "Left-Hand-Bat",
+    "bowling_style": "None",
+    "price": 1000000
+  },
+  {
+    "id": 9,
+    "player_name": "Hardik Pandya",
+    "player_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzixQ8pY-SZThZxYg595o5E5l-9RtioN0B2DbtQsMdcQ&s=10",
+    "country_name": "India",
+    "role": "All-Rounder",
+    "rating": 8.6,
+    "batting_style": "Right-Hand-Bat",
+    "bowling_style": "Right-arm fast-medium",
+    "price": 1200000
+  },
+  {
+    "id": 10,
+    "player_name": "Mustafizur Rahman",
+    "player_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGSRdyoev04E8qRnkndYyqRkNhroGL0hlQKAf4a57hlA&s=10",
+    "country_name": "Bangladesh",
+    "role": "Bowler",
+    "rating": 8.4,
+    "batting_style": "Left-Hand-Bat",
+    "bowling_style": "Left-arm fast-medium",
+    "price": 950000
+  },
+  {
+    "id": 11,
+    "player_name": "Glenn Maxwell",
+    "player_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUmRLGxTYgYbSk8AdbQS6jon7n3nmdvQnY6f85232asQ&s=10",
+    "country_name": "Australia",
+    "role": "All-Rounder",
+    "rating": 8.7,
+    "batting_style": "Right-Hand-Bat",
+    "bowling_style": "Right-arm off break",
+    "price": 1150000
+  },
+  {
+    "id": 12,
+    "player_name": "Trent Boult",
+    "player_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM9T2nPDuxnBWvjPygqhOJz5AgE0RrQ8viYZEyHnehnQ&s=10",
+    "country_name": "New Zealand",
+    "role": "Bowler",
+    "rating": 8.8,
+    "batting_style": "Right-Hand-Bat",
+    "bowling_style": "Left-arm fast-medium",
+    "price": 1050000
+  }
+]
