@@ -1,7 +1,7 @@
 import React, { use } from 'react';
 import PlayerCart from '../PlayerCard/PlayerCart';
 
-const AvailablePlayers = ({playerPromise,setAvailableBalance,availableBalance}) => {
+const AvailablePlayers = ({playerPromise,setAvailableBalance,availableBalance,choosePlayer,setChoosePlayer}) => {
     const players =use(playerPromise)
     return (
         <div>
@@ -11,6 +11,9 @@ const AvailablePlayers = ({playerPromise,setAvailableBalance,availableBalance}) 
                      player={player}
                      setAvailableBalance={setAvailableBalance}
                      availableBalance={availableBalance}
+                     choosePlayer={choosePlayer}
+                     setChoosePlayer={setChoosePlayer}
+                     setChoosePlayer={setChoosePlayer}
                      ></PlayerCart>)
                 }
             </div>

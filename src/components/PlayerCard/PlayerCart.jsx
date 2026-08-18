@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { FaFlag } from 'react-icons/fa';
 import { toast } from 'react-toastify';
 
-const PlayerCart = ({player,setAvailableBalance,availableBalance}) => {
+const PlayerCart = ({player,setAvailableBalance,availableBalance,choosePlayer,setChoosePlayer}) => {
     const [selected,setSelected]=useState(false)
     console.log(player)
     const {player_name,player_img,country_name,bowling_style,batting_style,price,rating,role,}=player
@@ -20,6 +20,7 @@ const PlayerCart = ({player,setAvailableBalance,availableBalance}) => {
         setSelected(true)
         setAvailableBalance(availableBalance-player.price)
         toast.success(`your are select ${player.player_name}`)
+        setChoosePlayer([...choosePlayer,player])
         
         }
         

@@ -1,9 +1,13 @@
 import React from 'react';
+import ChoosePlayer from '../ChoosePlayer/ChoosePlayer';
 
-const SelectedPlayer = () => {
+const SelectedPlayer = ({choosePlayer,removePlayer}) => {
+
     return (
         <div>
-            Selected players
+           {
+            choosePlayer.map((player)=><ChoosePlayer removePlayer={removePlayer} player={player }></ChoosePlayer>)
+           }
         </div>
     );
 };
